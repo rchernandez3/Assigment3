@@ -1,20 +1,27 @@
+/*Credits to Spotify for the colors*/
+
 body{
-    background: linear-gradient(#eae, #e8e);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2em;
-    max-width: 900px;
+    background: linear-gradient(#2d2929,#191414);
+    font-family: tahoma, Geneva, arial, helvetica;
+    color: #bbb;
+    font-size: 1.1em;
+    max-width: 77%;
     margin: 0 auto;
+    padding: 1rem;
 }
 img{
     width: 300px
 }
 a{
     text-decoration: none;
-    color: crimson;
+    color: rgb(19, 154, 233);
 }
-h1, h2, h3{
-    color: #444;
+h2, h3{
+    color: #fff;
+}
+h1{
     text-align: center;
+    color: #1DB954;
 }
 p{
     margin-left: 2em;
